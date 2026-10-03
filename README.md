@@ -1,0 +1,2 @@
+# pomalli
+student [ai]
